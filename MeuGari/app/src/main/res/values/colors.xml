@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#ffe380</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="red">#bf4040</color>
+    <color name="darkGray">#909097</color>
+    <color name="lightGray">#C6C6C6</color>
+    <color name="blue">#298ACF</color>
+    <color name="green">#A1DD35</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="mapFab">#4a4a4f</color>
+    <color name="blue70">#B385a3e0</color>
+    <color name="blue30">#4D85a3e0</color>
+    <color name="gray85">#D9e6e6e6</color>
+    <color name="gray70">#B3e6e6e6</color>
+    <color name="gray50">#80e6e6e6</color>
+    <color name="green70">#B3009933</color>
+    <color name="white80">#CCFFFFFF</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeuGari</string>
+    <string name="app_full_name">MeuGari</string>
+    <string name="app_description">Coleta de resíduos urbanos</string>
+    <string name="app_label_version">Versão: %1$s</string>
+
+</resources>
